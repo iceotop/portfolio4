@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: space-around;
 
-    background-image: url(/../ImagesUsed/rouen_cathedral.jpg);
+    background-image: url(./../ImagesUsed/rouen_cathedral.jpg);
     background-position: bottom right;
     background-size: cover;
     width: 45%;
