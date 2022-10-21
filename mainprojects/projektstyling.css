@@ -7,7 +7,7 @@ body {
     display: flex;
     flex-direction: column; /* <---- För main-header & main-contents att ligga på varandra*/
     margin-top: 10em;
-    background-image: url(/../ImagesUsed/little-nemo.jpg);
+    background-image: url(./../ImagesUsed/little-nemo.jpg);
     background-size: auto;
     background-position: center;
 }
